@@ -1,4 +1,4 @@
-# Linear-and-Binary-search
+# Linear-Binary search
 Compare the number of operations 
 ## Explanation
 Number of operations in linear search could be as many as the length of the list. Linear search does not need a sorted list, has a simple algorithm ( sequential access ) and compares one item at a time. Therefore , it will be slow.
