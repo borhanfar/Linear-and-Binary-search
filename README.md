@@ -1,5 +1,6 @@
 # Linear-Binary search
-Compare the number of operations 
+Compare the number of operations
+https://github.com/borhanfar/Linear-and-Binary-search/blob/main/Linear_and_Binary_search.ipynb
 ## Explanation
 Number of operations in linear search could be as many as the length of the list. Linear search does not need a sorted list, has a simple algorithm ( sequential access ) and compares one item at a time. Therefore , it will be slow.
 However, strategy in binary search definitely reduces the number of operations. Binary search does need a sorted list, has a complex algorithm ( random access ) and avoids searching half of the list. As a result of that, it reduces the searching time and will be faster. 
